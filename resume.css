@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+hr {
+    border:1px solid black;
+}
+
+.tag {
+    margin: 1rem 2.3em .2rem 4rem;
+    font-weight: 400;
+}
+
+.card-out {
+    /* padding-left:2rem; */
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.card-in {
+    margin: 1rem 4rem;
+}
+
+.right {
+    text-align: right;
+}
+
+.edu {
+    margin-top: 2rem;
+}
+.edu-out{
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+.edu-1 {
+    margin: .3rem 4em;
+}
+
+.edu-1 h3{
+    font-size: 1rem;
+}
+
+.edu-1 p{
+    font-size: small;
+}
